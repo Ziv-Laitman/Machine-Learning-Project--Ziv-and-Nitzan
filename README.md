@@ -30,7 +30,8 @@ Validation datasets were used throughout the training process to monitor the per
 The final model's performance was evaluated using AUC. The predictions on the test set are stored in `results_Ziv_and_Nitzan.csv`, showing the probability of candidates being hired.
 
 ## How to Run the Project
-1. Clone the repository:
+1. **Clone the Repository**:
+   Clone the repository from GitHub to your local machine using the following command:
    ```bash
-   git clone https://github.com/username/repository-name.git
-   cd repository-name
+   git clone https://github.com/Ziv-Laitman/Machine-Learning-Project--Ziv---Nitzan.git
+   cd Machine-Learning-Project--Ziv---Nitzan
