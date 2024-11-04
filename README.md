@@ -1,2 +1,0 @@
-# Data Folder
-This folder contains the training data (with labels) and the test data (without labels). It also includes the `countryContinent.csv` file (sourced from Kaggle), which we used to associate each country with a sub-continent as part of our categorical feature processing strategy. Additionally, the folder contains the probability vector, which is the output of running our chosen model on the test data.
